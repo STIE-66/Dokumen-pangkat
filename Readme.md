@@ -12,6 +12,7 @@ KELENGKAPAN BERKAS FISIK
 7c. ASISTEN AHLI
 7c. . SK. Ijin Belajar/Tugas Belajar
 7d/e SK Lektor IIIa.
+7F. SK Lektor New 2013
 10a/b. Askes/BPJS
 11. NPWP
 12a/b. Ijazah S1 dan transkrip
@@ -19,4 +20,5 @@ KELENGKAPAN BERKAS FISIK
 12e.   IjazahS3 dan transkrip
 13. Kartu keluarga
 14. SK Pengaktifan kembali S3
+15. Kartu Tanda Penduduk Nasional (Seumur Hidup)
 
